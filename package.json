@@ -18,7 +18,8 @@
     "url": "https://github.com/rakeshroshan19/Laptop-shopping/issues"
   },
   "homepage": "https://github.com/rakeshroshan19/Laptop-shopping#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "nodemon": "^1.19.1"
   }
 }
