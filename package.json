@@ -1,0 +1,19 @@
+{
+  "name": "99-bonus-1",
+  "version": "1.0.0",
+  "description": "Shop different laptop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshroshan19/Laptop-shopping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshroshan19/Laptop-shopping/issues"
+  },
+  "homepage": "https://github.com/rakeshroshan19/Laptop-shopping#readme"
+}
